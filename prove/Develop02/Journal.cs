@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
+using System.Linq; //This namespace provides classes and extensions for querying collections using Language-Integrated Query (LINQ).
 using System.Globalization; // CultureInfo is used to parse the date in the LoadFromCsv method. It ensures that the date is correctly interpreted according to the specified culture.
 
 class Journal
